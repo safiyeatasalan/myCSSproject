@@ -1,0 +1,7 @@
+#image1{
+    max-width:200px ;
+    height:200px;
+    border-radius: 50%;
+    border: 5px solid pink;
+    padding: 2px;
+}
